@@ -1,0 +1,11 @@
+C:\Users\siste\BSC\BSC.Domain\bin\Debug\net10.0\BSC.Domain.deps.json
+C:\Users\siste\BSC\BSC.Domain\bin\Debug\net10.0\BSC.Domain.dll
+C:\Users\siste\BSC\BSC.Domain\bin\Debug\net10.0\BSC.Domain.pdb
+C:\Users\siste\BSC\BSC.Domain\obj\Debug\net10.0\BSC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siste\BSC\BSC.Domain\obj\Debug\net10.0\BSC.Domain.AssemblyInfoInputs.cache
+C:\Users\siste\BSC\BSC.Domain\obj\Debug\net10.0\BSC.Domain.AssemblyInfo.cs
+C:\Users\siste\BSC\BSC.Domain\obj\Debug\net10.0\BSC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\siste\BSC\BSC.Domain\obj\Debug\net10.0\BSC.Domain.dll
+C:\Users\siste\BSC\BSC.Domain\obj\Debug\net10.0\refint\BSC.Domain.dll
+C:\Users\siste\BSC\BSC.Domain\obj\Debug\net10.0\BSC.Domain.pdb
+C:\Users\siste\BSC\BSC.Domain\obj\Debug\net10.0\ref\BSC.Domain.dll

@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "BSC.Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BSC.Application.Identity.Login.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BSC.Api.Controllers.PedidosController",
+    "Method": "CrearPedido",
+    "RelativePath": "api/Pedidos/crear-pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BSC.Application.Pedidos.CrearPedido.CrearPedidoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BSC.Api.Controllers.ProductosController",
+    "Method": "CrearProducto",
+    "RelativePath": "api/Productos/crear-producto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BSC.Application.Productos.RegistrarProducto.RegistrarProductoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BSC.Api.Controllers.UsuariosController",
+    "Method": "AsignarRol",
+    "RelativePath": "api/Usuarios/asignar-rol",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BSC.Application.Identity.AsignarRol.AsignarRolDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BSC.Api.Controllers.UsuariosController",
+    "Method": "CrearUsuario",
+    "RelativePath": "api/Usuarios/crear-usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BSC.Application.Identity.CrearUsuario.CrearUsuarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BSC.Api/BSC.Api.csproj" />
+  <Project Path="BSC.Application/BSC.Application.csproj" Id="387f9671-6d0c-4836-9412-27592d66c907" />
+  <Project Path="BSC.Domain/BSC.Domain.csproj" Id="42d46b57-e070-42e8-ab5a-a357aa5ff1e3" />
+  <Project Path="BSC.Infrastructure/BSC.Infrastructure.csproj" Id="57035bb4-6a7c-4bbb-8cbb-b5fceb3b0602" />
+</Solution>

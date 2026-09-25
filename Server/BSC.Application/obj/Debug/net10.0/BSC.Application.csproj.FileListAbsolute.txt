@@ -1,0 +1,15 @@
+C:\Users\siste\BSC\BSC.Application\bin\Debug\net10.0\BSC.Application.deps.json
+C:\Users\siste\BSC\BSC.Application\bin\Debug\net10.0\BSC.Application.dll
+C:\Users\siste\BSC\BSC.Application\bin\Debug\net10.0\BSC.Application.pdb
+C:\Users\siste\BSC\BSC.Application\bin\Debug\net10.0\BSC.Domain.dll
+C:\Users\siste\BSC\BSC.Application\bin\Debug\net10.0\BSC.Domain.pdb
+C:\Users\siste\BSC\BSC.Application\obj\Debug\net10.0\BSC.Application.csproj.AssemblyReference.cache
+C:\Users\siste\BSC\BSC.Application\obj\Debug\net10.0\BSC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siste\BSC\BSC.Application\obj\Debug\net10.0\BSC.Application.AssemblyInfoInputs.cache
+C:\Users\siste\BSC\BSC.Application\obj\Debug\net10.0\BSC.Application.AssemblyInfo.cs
+C:\Users\siste\BSC\BSC.Application\obj\Debug\net10.0\BSC.Application.csproj.CoreCompileInputs.cache
+C:\Users\siste\BSC\BSC.Application\obj\Debug\net10.0\BSC.Appl.7A296462.Up2Date
+C:\Users\siste\BSC\BSC.Application\obj\Debug\net10.0\BSC.Application.dll
+C:\Users\siste\BSC\BSC.Application\obj\Debug\net10.0\refint\BSC.Application.dll
+C:\Users\siste\BSC\BSC.Application\obj\Debug\net10.0\BSC.Application.pdb
+C:\Users\siste\BSC\BSC.Application\obj\Debug\net10.0\ref\BSC.Application.dll

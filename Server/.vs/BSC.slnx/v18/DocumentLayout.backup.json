@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siste\\BSC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42D46B57-E070-42E8-AB5A-A357AA5FF1E3}|BSC.Domain\\BSC.Domain.csproj|c:\\users\\siste\\bsc\\bsc.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D46B57-E070-42E8-AB5A-A357AA5FF1E3}|BSC.Domain\\BSC.Domain.csproj|solutionrelative:bsc.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E915DA3-B949-C19B-6920-8FB4668EE94F}|BSC.Api\\BSC.Api.csproj|c:\\users\\siste\\bsc\\bsc.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E915DA3-B949-C19B-6920-8FB4668EE94F}|BSC.Api\\BSC.Api.csproj|solutionrelative:bsc.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57035BB4-6A7C-4BBB-8CBB-B5FCEB3B0602}|BSC.Infrastructure\\BSC.Infrastructure.csproj|c:\\users\\siste\\bsc\\bsc.infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57035BB4-6A7C-4BBB-8CBB-B5FCEB3B0602}|BSC.Infrastructure\\BSC.Infrastructure.csproj|solutionrelative:bsc.infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E915DA3-B949-C19B-6920-8FB4668EE94F}|BSC.Api\\BSC.Api.csproj|c:\\users\\siste\\bsc\\bsc.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E915DA3-B949-C19B-6920-8FB4668EE94F}|BSC.Api\\BSC.Api.csproj|solutionrelative:bsc.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E915DA3-B949-C19B-6920-8FB4668EE94F}|BSC.Api\\BSC.Api.csproj|c:\\users\\siste\\bsc\\bsc.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E915DA3-B949-C19B-6920-8FB4668EE94F}|BSC.Api\\BSC.Api.csproj|solutionrelative:bsc.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E915DA3-B949-C19B-6920-8FB4668EE94F}|BSC.Api\\BSC.Api.csproj|c:\\users\\siste\\bsc\\bsc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E915DA3-B949-C19B-6920-8FB4668EE94F}|BSC.Api\\BSC.Api.csproj|solutionrelative:bsc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E915DA3-B949-C19B-6920-8FB4668EE94F}|BSC.Api\\BSC.Api.csproj|c:\\users\\siste\\bsc\\bsc.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E915DA3-B949-C19B-6920-8FB4668EE94F}|BSC.Api\\BSC.Api.csproj|solutionrelative:bsc.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387F9671-6D0C-4836-9412-27592D66C907}|BSC.Application\\BSC.Application.csproj|c:\\users\\siste\\bsc\\bsc.application\\identity\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387F9671-6D0C-4836-9412-27592D66C907}|BSC.Application\\BSC.Application.csproj|solutionrelative:bsc.application\\identity\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387F9671-6D0C-4836-9412-27592D66C907}|BSC.Application\\BSC.Application.csproj|c:\\users\\siste\\bsc\\bsc.application\\identity\\login\\logincasouso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387F9671-6D0C-4836-9412-27592D66C907}|BSC.Application\\BSC.Application.csproj|solutionrelative:bsc.application\\identity\\login\\logincasouso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\siste\\BSC\\BSC.Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "BSC.Domain\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\siste\\BSC\\BSC.Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "BSC.Domain\\Entities\\Pedido.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:57:22.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\siste\\BSC\\BSC.Api\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "BSC.Api\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\siste\\BSC\\BSC.Api\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "BSC.Api\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:53:36.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\siste\\BSC\\BSC.Api\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "BSC.Api\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\siste\\BSC\\BSC.Api\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "BSC.Api\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T01:43:21.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\siste\\BSC\\BSC.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BSC.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\siste\\BSC\\BSC.Api\\Program.cs",
+              "RelativeToolTip": "BSC.Api\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T01:12:52.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\siste\\BSC\\BSC.Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeDocumentMoniker": "BSC.Infrastructure\\Identity\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\siste\\BSC\\BSC.Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeToolTip": "BSC.Infrastructure\\Identity\\IdentityService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T01:05:31.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginCasoUso.cs",
+              "DocumentMoniker": "C:\\Users\\siste\\BSC\\BSC.Application\\Identity\\Login\\LoginCasoUso.cs",
+              "RelativeDocumentMoniker": "BSC.Application\\Identity\\Login\\LoginCasoUso.cs",
+              "ToolTip": "C:\\Users\\siste\\BSC\\BSC.Application\\Identity\\Login\\LoginCasoUso.cs",
+              "RelativeToolTip": "BSC.Application\\Identity\\Login\\LoginCasoUso.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T22:59:05.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\siste\\BSC\\BSC.Application\\Identity\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "BSC.Application\\Identity\\Login\\Login.cs",
+              "ToolTip": "C:\\Users\\siste\\BSC\\BSC.Application\\Identity\\Login\\Login.cs",
+              "RelativeToolTip": "BSC.Application\\Identity\\Login\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T01:03:02.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\siste\\BSC\\BSC.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BSC.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\siste\\BSC\\BSC.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BSC.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T22:58:01.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\siste\\BSC\\BSC.Api\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "BSC.Api\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\siste\\BSC\\BSC.Api\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "BSC.Api\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T22:10:46.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
